@@ -1,2 +1,4 @@
-# echo
-exports.echo=console.log
+##example
+node dnslookup google.com
+
+
