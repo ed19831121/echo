@@ -1,0 +1,22 @@
+{
+  "name": 		"echo",
+  "version": 		"1.0.0",
+  "description": 	"node dnslookup your-domain.com",
+  "main": 		"index.js",
+  "scripts": {
+    	"test": 	"node dnslookup your-domain.com"
+  },
+  "repository": {
+    	"type": 	"git",
+    	"url": 		"git+https://github.com/ed19831121/echo.git"
+  },
+  "keywords": [
+    		"dnslookup"
+  ],
+  "author": 		"ed19831121",
+  "license": 		"ISC",
+  "bugs": {
+    			"url": "https://github.com/ed19831121/echo/issues"
+  },
+  			"homepage": "https://github.com/ed19831121/echo#readme"
+}
